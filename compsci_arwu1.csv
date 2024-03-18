@@ -1,0 +1,110 @@
+Institution,Total Score,Q1,CNCI,IC,TOP,AWARD,UNITID,CompSci_Rank
+Massachusetts Institute of Technology,355.3,61.1,83.1,73.8,96.3,100,166683,1
+Stanford University,315.6,55.6,93,68.9,82.6,70.7,243744,2
+University of California Berkeley,284.4,46.9,79,72.2,78.5,65.5,110635,3
+Carnegie Mellon University,279.9,55.7,71.6,74,100,37.8,211440,4
+Harvard University,252.4,57.4,81.8,71.8,52.5,46.3,166027,5
+University of California Los Angeles,226.2,41.7,65.2,67.8,52.3,53.5,110662,6
+Princeton University,222.5,36.2,74.5,72.3,55.1,42.3,186131,7
+University of Southern California,217.1,45.8,77.1,70.7,53.3,26.7,123961,8
+Cornell University,216.4,38.2,74.5,66.3,57.8,32.7,190415,9
+University of North Carolina Chapel Hill,214.7,40.5,94.5,71.4,27.7,37.8,199120,10
+University of Texas Austin,206.5,40.9,69.5,65.9,56.2,26.7,228778,11
+Georgia Institute of Technology,204.1,54.3,73,71.5,62.5,0,139755,12
+University of Michigan,203.8,53,78.9,65.6,58.8,0,170976,13
+New York University,201.8,39.1,73.5,75.1,43.3,30.9,193900,14
+University of Washington,198.9,42.5,75.7,66.6,67.3,0,236948,15
+University of Wisconsin Madison,194.7,39.3,100,64.7,42.5,0,240444,16
+Columbia University,193.1,45,84.7,72.3,49,0,190150,17
+Johns Hopkins University,,38.3,87.6,69,38.6,0,162928,18
+University of California San Diego,,43.8,69.9,69.1,50.7,0,110680,19
+University of California San Diego,,43.8,69.9,69.1,50.7,0,122436,20
+University of Illinois Urbana Champaign,,46.9,68.8,68.9,58.2,0,145637,21
+University of Maryland College Park,,41.5,73.4,69.1,49.7,0,163286,22
+Arizona State University,,42.4,72.4,71.8,37,0,104151,23
+Michigan State University,,42.1,83.2,70.2,25.2,0,171100,24
+Purdue University West Lafayette,,49.4,68.8,67.2,41.3,0,243780,25
+Rutgers State University of New Jersey,,39.1,74.8,71.2,40,0,186380,26
+University of California Merced,,21.9,100,81.6,25.4,0,445188,27
+University of Pennsylvania,,36.8,75.7,64.5,47.4,0,215062,28
+Brown University,,22.7,88.4,69.2,28.4,0,217156,29
+Duke University,,33.7,67.2,68.8,45.2,0,198419,30
+New Jersey Institute of Technology,,39.9,85.8,80.7,15.7,0,185828,31
+Northeastern University,,33.7,64.9,69.2,43.3,0,167358,32
+Temple University,,37.7,85.3,88.6,18,0,216339,33
+Ohio State University,,38.6,72.7,64.5,28.2,0,204796,34
+University of Texas San Antonio,,41.8,86.8,87.8,14,0,229027,35
+University Buffalo State University of New York,,37.7,76.8,70.6,30.5,0,196088,36
+University of California Davis,,39.7,78.1,73.6,26.5,0,110644,37
+University of California Irvine,,37.8,74.3,71.5,33.1,0,110653,38
+University of Florida,,47.1,72.4,71.7,22.1,0,134130,39
+University of Iowa,,26.1,93.9,66.6,21.2,0,153658,40
+University of Minnesota,,38.9,69.8,65.4,38.2,0,174066,41
+Virginia Tech,,43.2,78.2,64.4,28.7,0,233921,42
+Indiana University Bloomington,,29.2,70.3,65.9,32,0,151351,43
+Northwestern University,,30.5,64.5,62.8,36,0,147767,44
+Pennsylvania State University,,36.4,61.7,65.6,32.4,0,214777,45
+Stony Brook University,,36.8,69.8,78,26,0,196097,46
+Texas A&M University,,40.5,66.7,66.6,30.3,0,228723,47
+University of Texas Arlington,,31.3,75.8,78.8,25,0,228769,48
+University Albany State University of New York,,20.4,69.2,73,15.1,26.7,196060,49
+University of Chicago,,31.1,72.9,68.1,31.6,0,144050,50
+University of Houston,,36.4,76.9,81.8,14,0,225511,51
+University of Pittsburgh,,37.4,66.7,69.7,30.3,0,215293,52
+Vanderbilt University,,31.7,88.5,55.3,18.5,0,221999,53
+Boston University,,27.1,61.1,64.6,31,0,164988,54
+California Institute of Technology,,24,68.2,71.6,32,0,110404,55
+Case Western Reserve University,,25.4,83.5,66.8,12.6,0,201645,56
+Georgia State University,,28.2,81.1,82.1,8.3,0,139940,57
+Missouri University of Science and Technology,,27.8,80.6,74.6,10.4,0,178411,58
+North Carolina State University,,34.9,69.1,63.3,20.4,0,199193,59
+Rensselaer Polytechnic Institute,,27.4,67.7,68.5,24.3,0,194824,60
+Stevens Institute of Technology,,28,77.1,74.6,16.3,0,186867,61
+University of Texas Dallas,,35.3,67,77.1,23.1,0,228787,62
+University of Arizona,,35.3,67.9,70.7,15.7,0,104179,63
+University of California Riverside,,28.6,69.8,70.6,21,0,110671,64
+University of California Santa Barbara,,26.7,67,72.5,30.2,0,110705,65
+University of Central Florida,,33.9,68,70,24.1,0,132903,66
+University of Colorado Boulder,,24.7,64.4,60.8,30.2,0,126614,67
+University of Idaho,,24.9,100,88.6,0,0,142285,68
+University of Illinois Chicago,,28.7,69.1,72.2,28.6,0,145600,69
+University of Kentucky,,28.9,83.3,74.5,14.9,0,157085,70
+University of Massachusetts Amherst,,28.9,62,69.4,36.6,0,166629,71
+University of North Carolina Charlotte,,29.4,76.1,75,18,0,199139,72
+University of Notre Dame,,31.6,71.6,70.5,17.4,0,152080,73
+University of South Carolina,,23.1,85.1,76.1,12.1,0,218663,74
+University of Utah,,33.4,69.3,61.3,26.3,0,230764,75
+University of Virginia,,30.9,75.2,65.7,24.1,0,234076,76
+Washington University in St. Louis,,27,79,65.2,24.3,0,179867,77
+West Virginia University,,20.1,85.2,73.3,15.5,0,238032,78
+Yale University,,28.1,63.1,73.7,31.9,0,130794,79
+Auburn University,,27.6,77.9,71.8,6.7,0,100858,80
+Binghamton University,,21.7,76.6,64,13.5,0,196079,81
+Florida International University,,28.1,74.5,68.3,10.4,0,133951,82
+Illinois Institute of Technology,,26.6,70.9,77.1,13.1,0,145725,83
+Iowa State University,,28.7,67.5,62.5,17.2,0,153603,84
+Lehigh University,,18.7,80.2,61.3,13.5,0,213543,85
+Old Dominion University,,21.4,83.3,75.6,7.5,0,232982,86
+Rice University,,20.6,64.4,65.2,26.3,0,227757,87
+University of Arkansas Fayetteville,,19.6,79.3,66.5,11.5,0,106397,88
+University of Miami,,19.2,82.8,66.1,7.5,0,135726,89
+University of North Texas,,20.3,78.6,76.1,9.7,0,227216,90
+University of Rochester,,20.4,59.9,72.5,30,0,195030,91
+Washington State University,,22,73.8,55.1,17.1,0,236939,92
+Clemson University,,26.7,64.2,54.8,13.8,0,217882,93
+Dartmouth College,,21.2,65.4,64.1,20.9,0,182670,94
+Drexel University,,22.9,61.5,62,19.6,0,212054,95
+Florida State University,,23.9,70.8,63.3,12.8,0,134097,96
+George Mason University,,26.8,60.5,61.4,20.4,0,232186,97
+North Dakota State University,,19.5,85.8,78.6,0,0,200332,98
+Oklahoma State University,,23.1,74.9,72.7,7.5,0,207388,99
+Oregon State University,,23.4,55,62.5,27,0,209542,100
+George Washington University,,24.9,71.6,67.9,12.3,0,131469,101
+University of Georgia,,21.7,71,71.5,15.5,0,139959,102
+University of California Santa Cruz,,19.4,59.6,67.3,26.5,0,110714,103
+University of Connecticut,,27,63,61,14.2,0,129020,104
+University of Delaware,,22.5,64.5,70.9,16.3,0,130943,105
+University of Nebraska Lincoln,,25.5,69.6,73.2,11,0,181464,106
+University of South Florida,,28.6,71.7,65.6,8.7,0,137351,107
+University of Tennessee Knoxville,,28.4,65.6,72.9,12.8,0,221759,108
+Wayne State University,,26.3,69.2,75.4,7.5,0,172644,109
